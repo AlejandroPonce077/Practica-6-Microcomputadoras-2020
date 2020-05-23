@@ -1,0 +1,54 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Mon Apr 06 15:04:05 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000005    program   0x00005c
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000005    0x000032      
+            47 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+               DELAY_20MS   0x00002b    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+                 DESP_0_1   0x00001f    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+                 DESP_1_2   0x000022    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+                 DESP_2_3   0x000025    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+                   ESPERA   0x000014    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+                 FINALIZA   0x000027    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+                   INICIO   0x000005    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+                   PDelL1   0x000030    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+                   PDelL2   0x000031    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+                   PLOOP0   0x00002d    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+                PRINCIPAL   0x000013    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000005    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+                PRINCIPAL   0x000013    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+                   ESPERA   0x000014    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+                 DESP_0_1   0x00001f    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+                 DESP_1_2   0x000022    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+                 DESP_2_3   0x000025    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+                 FINALIZA   0x000027    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+               DELAY_20MS   0x00002b    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+                   PLOOP0   0x00002d    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+                   PDelL1   0x000030    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+                   PDelL2   0x000031    program     static C:\Users\Ponce\Downloads\Practica 6 micros\practica 6 ejercicio2.asm
+
+
